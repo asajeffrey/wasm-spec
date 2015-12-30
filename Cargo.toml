@@ -1,5 +1,5 @@
 [package]
-name = "wasm-spec"
+name = "wasm_spec"
 version = "0.0.1"
 description = "Web Assembly specification (cloned from https://github.com/WebAssembly/spec)"
 repository = "https://github.com/asajeffrey/wasm-spec"
