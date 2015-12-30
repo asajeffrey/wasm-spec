@@ -6,3 +6,6 @@ repository = "https://github.com/asajeffrey/wasm-spec"
 readme = "README.md"
 keywords = [ "wasm", "web assembly" ]
 license = "Apache-2.0"
+
+[lib]
+path = "lib.rs"
